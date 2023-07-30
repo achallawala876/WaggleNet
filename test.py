@@ -33,7 +33,7 @@ camera = PiCamera()
 picT = 600
 uploadT = 60
 temp = 1
-while (1)
+while (1):
     #if temp == uploadT
     #    print(uploading)
     #    os.system('rclone copy homepiDesktoppics gdrive WaggleNet')
